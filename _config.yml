@@ -1,0 +1,17 @@
+---
+title: Wdhx
+description: Wdhx website
+timezone: Asia/Jakarta
+url: https://wdhx.github.io
+permalink: pretty
+author:
+  name: mhmdilfaj
+  email: mhmdilfaj@gmail.com
+  phone: +6281296827422
+  image: 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+---
